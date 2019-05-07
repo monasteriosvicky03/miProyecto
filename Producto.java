@@ -1,3 +1,9 @@
 public class Producto{
-	private
+	private int id;
+	private  String;
+	private String;
+	public Producto
+	{
+		//constructor
+	}
 }

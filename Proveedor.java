@@ -1,4 +1,7 @@
 public class Proveedor{
 	private int id;
-	çprivate String nombre;
+	private String nombre;
+	public class Proveedor{
+		//Constructor
+	}
 }
